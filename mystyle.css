@@ -1,0 +1,107 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #ffffff;
+    font-size: 60px;
+    color: #000000;
+}
+.THtable {
+    font-family: 'Kanit', sans-serif;
+    border: 0px solid #FFFFFF;
+    text-align: center;
+    background-color: 	#000000;
+    color: #FFFFFF;
+}
+.TTtable {
+    font-family: 'Kanit', sans-serif;
+    border: 0px solid #FFFFFF;
+    text-align: center;
+    background-color: 	#333333;
+    color: #FFFFFF;
+}
+.TDtable {
+    font-family: 'Kanit', sans-serif;
+    border: 0px solid #FFFFFF;
+    text-align: center;
+    background-color: #99CC99;
+}
+.TDDtable {
+    font-family: 'Kanit', sans-serif;
+    border: 0px solid #FFFFFF;
+    text-align: center;
+    background-color: 	#669966;
+}
+.Ctable {
+    font-family: 'Kanit', sans-serif;
+    border: 0px solid #FFFFFF;
+    text-align: center;
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.pcy {
+    padding: 0 6px;
+    float: center;
+    text-align: center;
+    width: 100%;
+}
+
+.desc {
+    font-family: 'Century Gothic', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: #000000;
+}
+.des {
+    font-family: 'Cordia New', sans-serif;
+    text-align: left;
+    font-size: 30px;
+    color: #000000;
+}
+
+
+.rl{
+	font-family: 'Cordia New', sans-serif;
+	color:#ffffff;
+    font-size: 25px;
+	background-color:#000000;
+}
+.rll{
+	font-family: 'Cordia New';
+	color:#000000;
+    font-size: 100px;
+    color: #000000;
+}
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+li {
+
+    float: left;
+}
+
+li a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+
